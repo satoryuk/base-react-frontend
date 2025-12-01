@@ -3,7 +3,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 ## 🔗 Demo
-Live Demo: [https://your-demo-url-here.com](https://base-react-frontend.vercel.app/)
+Live Demo: [https://project-demo-url.com](https://base-react-frontend.vercel.app/)
 
 Replace the link with your real deployed URL (Vercel, Netlify, GitHub Pages, etc.)
 
