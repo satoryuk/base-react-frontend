@@ -2,6 +2,13 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+## 🔗 Demo
+Live Demo: [https://your-demo-url-here.com](https://base-react-frontend.vercel.app/)
+
+Replace the link with your real deployed URL (Vercel, Netlify, GitHub Pages, etc.)
+
+---
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
